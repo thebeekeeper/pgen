@@ -1,0 +1,10 @@
+[package]
+name = "pgen"
+version = "0.1.0"
+authors = ["Nick Gamroth <thebeekeeper@gmail.com>"]
+
+[dependencies]
+serde = "1.0.80"
+serde_json = "*"
+serde_derive = "1.0.80"
+mustache = "0.9.0"
